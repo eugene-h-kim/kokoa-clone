@@ -41,12 +41,14 @@
 }
 
 .open-post__hashtags {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   opacity: 0.6;
+  line-height: 20px;
+  font-size: 16px;
 }
 
 .open-post__members {
-  margin-top: 7px;
+  margin-top: 15px;
   display: flex;
   align-items: center;
 }
